@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hello!
+<div id="header" alignt="center">
+  <img src="https://media.giphy.com/media/L3iUyZxjNJ080YJnlt/giphy.gif" width="100"/>
+</div>
 
 <!--
-**TeoGM97/TeoGM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
