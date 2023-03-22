@@ -22,12 +22,12 @@
 ---
 
 ###  About Me :
-I am a Mechanical Engineer ⚙️ and Machine Learning Engineer in process <img src="https://media.giphy.com/media/H7f707OlXoLeBQW1nu/giphy.gif" width="30"> from Colombia.
+I am a Mechanical Engineer ⚙️ and Data Science 📊 / Machine Learning Engineer in process <img src="https://media.giphy.com/media/H7f707OlXoLeBQW1nu/giphy.gif" width="30"> from Colombia.
 
 :computer: I'm working as a Data Entry Specialist in Deckard Technologies <a href="https://www.deckard.com/" target="_blank"><img src="https://i0.wp.com/www.deckard.com/wp-content/uploads/2021/11/Deckard_logo_leftbrain.png?resize=300%2C76&ssl=1" width="30"></a>
 
 
-:bar_chart: Studying Machine Learning Engineering in <a href="https://www.platzi.com/" target="_blank"><img src="https://static.platzi.com/media/logotipo-platzi.png" width="30"></a>.
+:bar_chart: Studying Machine Learning Engineering / Data Science in <a href="https://www.platzi.com/" target="_blank"><img src="https://static.platzi.com/media/logotipo-platzi.png" width="30"></a>.
 
 In my free time I do several things:
 - :guitar: Bass player in two rock bands: 
