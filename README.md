@@ -30,9 +30,9 @@ I am a Mechanical Engineer ⚙️ and Data Science 📊 / Machine Learning Engin
 :bar_chart: Studying Machine Learning Engineering / Data Science in <a href="https://www.platzi.com/" target="_blank"><img src="https://static.platzi.com/media/logotipo-platzi.png" width="30"></a>.
 
 In my free time I do several things:
-- :guitar: Bass player in two rock bands: 
+- :guitar: Bass player in a rock band: 
   Tyrants <a href="https://www.youtube.com/@tyrants702" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" width="40"></a>
-  <a href="https://instagram.com/tyrants_thrash?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" width="50"></a> and Affliction <a href="https://instagram.com/afflictionband_?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" width="50"></a>.
+  <a href="https://instagram.com/tyrants_thrash?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" width="50"></a>.
 
 - :weight_lifting: Workout
 
