@@ -33,7 +33,8 @@ In my free time I do several things:
 - :guitar: Bass player in a rock band: 
   Tyrants <a href="https://www.youtube.com/@tyrants702" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" width="40"></a>
   <a href="https://instagram.com/tyrants_thrash?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" width="50"></a>.
-
+- Bass covers and songs in <a href="https://www.tiktok.com/@mateo.gonzalez_m" target="_blank"><img src="https://img.shields.io/badge/TikTok-darkgrey?logo=tiktok&logoColor=white" width="40"></a> and <a href="https://www.instagram.com/mateo.gonzalez_m/" wid>
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white"   alt="Instagram Badge" width="55"/></a>.
 - :weight_lifting: Workout
 
 :mailbox:If you want to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-gonzalez-m/)
